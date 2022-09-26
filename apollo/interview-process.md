@@ -22,4 +22,6 @@ Round-2
    9. What are L1 and L2 Regularization 
    10. Ways to do Hyperparameter tuning
    11. Explain Bias Variance and how to handle high bias and high variance in the model.
-   12. ROC AUC Curve
+   12. ROC vs AUC Curve
+   13. MultiLevel Index in Pandas
+   14. Sort_values vs count in Pandas
